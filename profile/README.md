@@ -1,12 +1,13 @@
-## LunarGames 👋
+## Who We Are?
 
-<!--
+We Are An International Minecraft: Bedrock Edition Server
+With Many MiniGames And Specially `SkyBlock`.
 
-**Here are some ideas to get you started:**
+## What We Do?
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* We Are Using PHP, MYSQL, And Go For Our Network To Make Server Run Smoother.
+* Using PHPStan (maximum level) on (almost) all of our projects to find issues before they ever occur!
+
+## Interested?
+
+Did we get you interested in working at LunarGames after such a brief time? Check [here](https://discord.gg/lgop) to see open positions and how to apply for a job!
