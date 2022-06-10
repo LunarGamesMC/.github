@@ -1,3 +1,4 @@
+![LunarGames](https://media.discordapp.net/attachments/944446297442746369/984683285823225876/20220520_152445_1.png?width=956&height=153)
 ## Who We Are?
 
 We Are An International Minecraft: Bedrock Edition Server
