@@ -2,7 +2,7 @@
 ## Who We Are?
 
 We Are An International Minecraft: Bedrock Edition Server
-With Many MiniGames And Specially `SkyBlock`.
+With Many MiniGames And Especially `SkyBlock`.
 
 ## What We Do?
 
